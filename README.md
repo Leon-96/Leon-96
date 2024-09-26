@@ -1,6 +1,19 @@
 # 💫 About Me:
-Hey there! 👋 I'm a fourth-year computer science student at UPES, and I've been captivated by computers since I was young. I've always had a knack for problem-solving and finding real-world solutions, which naturally led me to start coding. Ever since then, I've been hooked!<br><br>I kicked off my coding journey back in 11th grade with Python, and I've gained over three years of experience with the language. Throughout my coding adventures, I've worked on various projects, from automation and IoT to creating fully-fledged websites and diving into full-stack development. Apart from Python, I've also dabbled in C, Java, and front-end development because my aim is to become a full-stack engineer.<br><br>Currently, I'm specializing in DevOps at UPES and have gained a good understanding of common DevOps tools. My ultimate goal is to become a DevOps engineer, and I'm excited to keep learning and growing in this field.<br><br>But it's not just my technical skills that make me stand out. I'm also a great communicator and thrive in leadership roles. I'm eager to gain valuable experience in professional workplace environments and use my skills to help companies achieve their goals.<br><br>In a nutshell, I'm an enthusiastic and driven individual with a deep passion for coding, problem-solving, and creating user-friendly interfaces. I'm thrilled to continue expanding my skill set, and right now, I'm actively learning JavaScript, Node.js, and working with databases.<br><br>Let's connect and make a positive impact in the tech industry together!
+As a final-year Computer Science student at UPES, I have always been driven by a passion for leveraging technology to solve real-world challenges. My journey with coding began in high school, where I developed a strong foundation in Python. Since then, I’ve expanded my expertise across a broad range of technologies, including full-stack development and cloud infrastructure.
 
+Over the past few years, I’ve had the opportunity to work on diverse projects—from building scalable APIs and e-commerce platforms to conducting research on mental workload classification at DRDO using deep learning. My experience spans automation, IoT, and web development, where I’ve become proficient in both frontend and backend technologies, along with cloud platforms like AWS.
+
+Key Strengths & Expertise:
+
+ • DevOps & Cloud Infrastructure: Hands-on experience with AWS (EC2, S3, RDS, Fargate), containerization (Docker, Kubernetes), and infrastructure automation (Terraform).
+ • Backend & Frontend Development: Proficient in Node.js, Express, React, and Nest.js, with a focus on building secure, scalable, and efficient web applications.
+ • Leadership & Collaboration: Led development teams for several projects, including at Carnaama, where I oversaw the creation of production-ready APIs and seamless integrations for an e-commerce platform.
+
+My specialization in DevOps has allowed me to gain a deep understanding of continuous integration/continuous deployment (CI/CD) pipelines, cloud-based solutions, and infrastructure management—all of which I’m keen to further explore and master as I pursue my career in this field.
+
+Beyond my technical expertise, I thrive in collaborative environments and enjoy taking on leadership roles where I can guide teams towards successful project outcomes. I’m constantly seeking opportunities to learn, adapt, and apply my skills in ways that make a tangible impact.
+
+I’m always open to connecting with like-minded professionals, exploring new opportunities, and contributing to innovative projects in the tech space.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-arora-13507a223) 
